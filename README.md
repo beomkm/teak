@@ -1,2 +1,2 @@
-# teak
+# Teak
 A JSON selector/validator
